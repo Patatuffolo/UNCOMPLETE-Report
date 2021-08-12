@@ -1,0 +1,8 @@
+name: Report
+version: 1.0
+author: Patatuffolo
+main: com.patatuffolo.report.Report
+api-version: 1.14
+commands:
+  report:
+    description: Reports a player
